@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Daeya  
+# 👋 프론트엔드 개발자 김정대입니다.
 
 저는 **웹 퍼블리셔로 5년**간 여러 공기업과 대기업 등의 반응형 웹과 접근성을 책임졌습니다.  
 지금은 **JavaScript와 React**를 공부하며 프론트엔드 개발자로 도약하고 있습니다.  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 <p>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Projects
+## 📌 프로젝트
 🔹 [Responsive Portfolio Site](http://daeya.kro.kr/)  
 퍼블리셔 경험을 살려 만든 반응형 포트폴리오 사이트  
 - HTML5/CSS3/Vanilla JS  
