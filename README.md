@@ -147,8 +147,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGithubID&color=4A90E2&style=flat-square)
 
-**관심있게 봐주셔서 감사합니다.**
-
 </div>
 
 ---
