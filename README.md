@@ -1,15 +1,10 @@
 # 김정대 | Frontend Developer
 
-> **6년차 퍼블리셔 → 프론트엔드 개발자 전환**  
-> 웹표준/접근성 기반의 견고한 UI 구현 + React/TypeScript 기반 프론트엔드 개발
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/📁_Portfolio-4A90E2?style=for-the-badge)](http://daeya.kro.kr/)
 [![Email](https://img.shields.io/badge/📧_daeya0406@gmail.com-EA4335?style=for-the-badge)](mailto:daeya0406@gmail.com)
 [![Publishing](https://img.shields.io/badge/🎨_퍼블리싱_포트폴리오-00C7B7?style=for-the-badge)](http://daeya.kro.kr/publishing)
-
-** 즉시 투입 가능 **
 
 </div>
 
@@ -18,7 +13,7 @@
 ## 핵심 역량
 
 ```
-✅ React + TypeScript + Next.js 실무 프로젝트 3개 완료
+✅ React + TypeScript + Next.js 실무 프로젝트
 ✅ 웹표준/접근성 기반 퍼블리싱 경력 6년 (공기업/대기업 다수)
 ✅ 기획-디자인-퍼블리싱-개발 전 과정 이해로 소통 비용 최소화
 ✅ 디자인 시스템, 컴포넌트 설계, 성능 최적화에 관심
@@ -29,7 +24,7 @@
 | 상황 | 저의 강점 |
 |------|-----------|
 | 디자이너와 협업이 잦은 팀 | 디자인 의도를 정확히 이해하고 1:1 구현 가능 |
-| 웹 접근성이 중요한 프로젝트 | 공기업/금융 프로젝트 다수 경험 (WCAG 2.1 준수) |
+| 웹 접근성이 중요한 프로젝트 | 공기업/금융 프로젝트 다수 경험 |
 | 레거시 개선이 필요한 경우 | 퍼블리싱 구조 개선 → React 마이그레이션 가능 |
 | 빠른 프로토타이핑 필요 | HTML/CSS 숙련도로 UI 빠르게 구현 |
 
@@ -37,7 +32,7 @@
 
 ## 🛠 Tech Stack
 
-### 주력 기술 (실무/프로젝트 사용)
+### 주력 기술
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -94,7 +89,7 @@
 - HTML/CSS 6년 숙련도 → 디자인 시안 받으면 당일 퍼블리싱 가능
 - Tailwind/SCSS 모두 능숙
 
-// 2. 웹 접근성 전문가
+// 2. 웹 접근성
 - WCAG 2.1 기준 마크업
 - 스크린리더 테스트 경험
 - 공기업/금융권 프로젝트 다수 (접근성 필수)
@@ -121,14 +116,15 @@
 
 ## 📚 학습 이력
 
-- **코드잇 스프린트 프론트엔드 19기 수료** (2025.07 - 2026.01)
+- **코드잇 스프린트 프론트엔드 19기 수료**
   - JavaScript, React, TypeScript 심화
   - 팀 프로젝트 3회 (기획-개발-배포 전 과정)
   - Git 협업, 코드 리뷰 경험
 
-- **웹 퍼블리싱 실무** (2019 - 2025)
+- **웹 퍼블리싱 실무**
   - 공기업/대기업 프로젝트 25건+
-  - 반응형 웹, 웹 접근성 전문
+  - 플랫폼 프로젝트
+  - 반응형 웹, 웹 접근성
   - 크로스 브라우징 대응
 
 ---
@@ -141,7 +137,6 @@
 
 **📧 Email**: [daeya0406@gmail.com](mailto:daeya0406@gmail.com)  
 **💼 Portfolio**: [https://daeya.vercel.app/](https://daeya.vercel.app/)
-**🎨 Publishing**: [http://daeya.kro.kr](http://daeya.kro.kr)
 
 ---
 
